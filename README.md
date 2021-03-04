@@ -18,4 +18,9 @@ HTML、CSS、Vue、Vue-router、Vuex、axios、ES6、JavaScript
     
 4、数据传输    
     使用props完成父组件向子组件传输数据，多个组件的参数共享使用Vuex中的store模式。当然，在路由跳转时，你还可以使用$route获取数据；在发生事件时，你也可以使用$element获取事件的信息
+         
+
+##其他
+    如果想在自己的电脑上查看本次搭建的页面，请在下载项目以及安装node.js后，在终端使用“npm install”指令下载项目依赖包。       
+    在项目文件夹下，使用终端运行“npm run serve”指令，即可在浏览器中查看项目          
     

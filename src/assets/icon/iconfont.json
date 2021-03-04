@@ -1,0 +1,79 @@
+{
+  "id": "2393895",
+  "name": "meituan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "681174",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "994605",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "1130127",
+      "name": "首",
+      "font_class": "shou",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1206489",
+      "name": "配送",
+      "font_class": "icon212",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "6677532",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14579436",
+      "name": "新",
+      "font_class": "xin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4551253",
+      "name": "减号",
+      "font_class": "jianhao",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7312648",
+      "name": "加号",
+      "font_class": "jiahao-",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "252743",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "251934",
+      "name": "fanhui",
+      "font_class": "xiangzuo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
